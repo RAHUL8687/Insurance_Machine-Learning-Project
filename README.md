@@ -196,14 +196,3 @@ Through this project, I practiced:
 - Correlation-based feature analysis.
 - Preparing data for machine learning workflows.
 
-## 👨‍💻 Author
-
-**Rahul Kumar Singh**
-
-B.Sc. Computer Science and Data Analytics | IIT Patna
-
-GitHub: [RAHUL8687](https://github.com/RAHUL8687)
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
